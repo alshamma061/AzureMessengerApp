@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "637133943687",
+    "firebase_url": "https://azuresamplemessenger.firebaseio.com",
+    "project_id": "azuresamplemessenger",
+    "storage_bucket": "azuresamplemessenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637133943687:android:57d61821ccf57bd5",
+        "android_client_info": {
+          "package_name": "com.example.microsoft.getstartednh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637133943687-cfhs11qpoac9abor5k3s03nd2sl1a0vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe9crK3l9uBk-iizQcJEYaCez5oLIujCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
